@@ -1,0 +1,10 @@
+^C:\DEMOS\CMAKETEST\CMAKEFILES\3DA30AEF3DEBC1B4C449B8B59309BBA7\GENERATE.STAMP.RULE
+setlocal
+C:\Apps\qt6\Tools\CMake_64\bin\cmake.exe -SC:/Demos/CMakeTest -BC:/Demos/CMakeTest --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Demos/CMakeTest/CMakeTest.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

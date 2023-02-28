@@ -1,0 +1,9 @@
+C:/Demos/CMakeTest/build/CMakeFiles/Experimental.dir
+C:/Demos/CMakeTest/build/CMakeFiles/Nightly.dir
+C:/Demos/CMakeTest/build/CMakeFiles/Continuous.dir
+C:/Demos/CMakeTest/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Demos/CMakeTest/build/CMakeFiles/CMakeTest.dir
+C:/Demos/CMakeTest/build/CMakeFiles/PACKAGE.dir
+C:/Demos/CMakeTest/build/CMakeFiles/RUN_TESTS.dir
+C:/Demos/CMakeTest/build/CMakeFiles/ALL_BUILD.dir
+C:/Demos/CMakeTest/build/CMakeFiles/ZERO_CHECK.dir
